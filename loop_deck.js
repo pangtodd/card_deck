@@ -1,4 +1,4 @@
-const suits = ["hearts", "clubs", "spade", "diamonds"];
+const suits = ["hearts", "clubs", "spades", "diamonds"];
 const cards = ["Ace", "King", "Queen", "Jack", "Ten", "Nine", "Eight", "Seven", "Six", "Five", "Four", "Three", "Two"];
 const deck = [];
 
